@@ -12,6 +12,8 @@
 ```bash
 pip install balex
 
+---
+
 ## نمونه کد
 ```bash
 import asyncio
